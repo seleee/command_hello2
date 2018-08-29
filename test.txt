@@ -1,5 +1,6 @@
-//for command line git
-//Git Hub
+//For command line git tutorial
+//Local repository modification
 테스트1
 테스트2
 테스트3
+//add
